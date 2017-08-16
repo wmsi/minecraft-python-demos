@@ -11,7 +11,7 @@ To run these scripts, you will need either:
 A place for the Minecraft Python API python files
 
 ## scripts/
-A place for various shell scripts used on Raspberry Pis (and maybe Macs) running these demos to reset world files, the script folder, etc.
+A place for various shell scripts used on Raspberry Pis and Macs running these demos to reset world files, the code folder, etc.
 
-## flatWorld/
-A basic Flat World map for use with the scripts
+## flatWorld/ & flatWorld-mac/
+A basic Flat World map for use with the scripts, for the RPi and Macs (newer Minecraft), respectively.
